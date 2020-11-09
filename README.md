@@ -1,4 +1,5 @@
 shopee4j
+[![](https://www.jitpack.io/v/tinybright/shopee4j.svg)](https://www.jitpack.io/#tinybright/shopee4j)
 ===========
 Shopee4J is a fluent Java client for [Shopee Open Platform](https://open.shopee.com/).  
 
